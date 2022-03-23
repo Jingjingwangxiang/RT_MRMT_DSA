@@ -14,7 +14,7 @@ Email: jingjingwangxiang@126.com or jingjing.wang.xiang@gmail.com
 
 Year first available: October, 2020 
 
-Latest version: March, 2022 
+Latest version: updated on March, 2022 
 
 Hardware required: The code is run on a computer with processor Intel® Core™ i5-6500 CPU @ 3.20GHz, 16GB Installed memory (RAM), 64-bit Operating System, x64-based processor. 
 
