@@ -5,7 +5,7 @@ This code is developed to account for reactive transport in heterogeneous media 
 It was published on Computers & Geosciences in January 2022, with the title "A general and efficient numerical solution of reactive transport with multirate mass transfer", https://doi.org/10.1016/j.cageo.2021.104953 
 
 We referenced the book of Istok, J. (1989) for the FEM implementation. 
-Groundwater Modeling by the Finite Element Method. In Water Resources Monograph (Vol. 13).
+**_Groundwater Modeling by the Finite Element Method. In Water Resources Monograph (Vol. 13)._**
 
 Name of code: Reactive Transport with Multirate Mass Transfer 
 
