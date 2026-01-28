@@ -1,5 +1,9 @@
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 
+Copyright (c) 2022 Jingjing Wang
+
+This project is licensed under the terms of the Creative Commons Attribution 4.0 International (CC BY 4.0) license. You are free to share and adapt this dataset, as long as you give appropriate credit and indicate if changes were made. See the LICENSE file for details.
+
 # RT_MRMT_DSA
 
 This code is developed to account for reactive transport in heterogeneous media with Multirate Mass Transfer(MRMT) that enables to simulate non-linear kinetics.
