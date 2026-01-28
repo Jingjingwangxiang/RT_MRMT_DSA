@@ -1,3 +1,5 @@
+![License: MIT](https://img.shields.io/badge/license-MIT-green)
+
 # RT_MRMT_DSA
 
 This code is developed to account for reactive transport in heterogeneous media with Multirate Mass Transfer(MRMT) that enables to simulate non-linear kinetics.
